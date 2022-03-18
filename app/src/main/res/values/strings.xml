@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DuckPics</string>
+    <string name="uri_api">https://random-d.uk/api/v2/random</string>
+    <string name="headline_textview">API</string>
+    <string name="button_txt_quack">Quack!</string>
+</resources>
